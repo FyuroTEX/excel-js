@@ -1,0 +1,29 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure JS Excel app",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FyuroTEX/excel-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Yurii Levchenko <yurilev4@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FyuroTEX/excel-js/issues"
+  },
+  "homepage": "https://github.com/FyuroTEX/excel-js#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
