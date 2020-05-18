@@ -9,7 +9,7 @@
 @import "variables";
 @import "mixins";
 
-$zimaBlue: #37c0f6;
+
 *{
   margin: 0;
   padding: 0;
@@ -21,5 +21,5 @@ body {
   font-size: 12px;
 }
 .excel{
-  
+  position: relative;
 }
