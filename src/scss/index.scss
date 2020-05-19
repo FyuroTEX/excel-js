@@ -16,10 +16,11 @@
   box-sizing: border-box;
 }
 body {
-  background: $zimaBlue;
+  background: $bg-color;
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
 }
 .excel{
   position: relative;
+  color: #888;
 }
