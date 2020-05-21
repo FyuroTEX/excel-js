@@ -10,7 +10,8 @@
         "object-curly-spacing": 0,
         "comma-dangle": "off",
         "indent":"off",
-        "require-jsdoc": "off"
+        "require-jsdoc": "off",
+        "no-extra-semi":"off"
     },
     "extends": ["eslint:recommended", "google"]
 }
