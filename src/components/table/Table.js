@@ -50,9 +50,9 @@ export class Table extends ExcelComponent {
       <div class="row">
         <div class="row-info">2</div>
         <div class="row-data">
-          <div class="cell selected">A2</div>
-          <div class="cell">B2</div>
-          <div class="cell">C2</div>
+          <div class="cell selected" contenteditable>A2</div>
+          <div class="cell" contenteditable>B2</div>
+          <div class="cell" contenteditable>C2</div>
         </div>
       </div>`;
     };
